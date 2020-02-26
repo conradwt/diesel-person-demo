@@ -8,7 +8,7 @@ Example Project Using Rust Language and The Diesel Crate.
 
 - Rust 1.41.0 or higher
 
-## Navigate to the iOS application
+## Navigate to the application
 
 ```
 $ cd /path/to/ios/application
@@ -29,7 +29,7 @@ cargo run --bin show_people
 ## Delete Post
 
 ```zsh
-cargo run --bin delete_person some-username
+cargo run --bin delete_person person-id
 ```
 
 ## Support
