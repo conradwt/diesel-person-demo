@@ -6,7 +6,9 @@ Example Project Using Rust Language and The Diesel Crate.
 
 ## Software requirements
 
-- Rust 1.41.0 or higher
+- Rust 1.44.0 or higher
+
+- PostgreSQL 12.3 or higher
 
 ## Navigate to the application
 
@@ -14,19 +16,19 @@ Example Project Using Rust Language and The Diesel Crate.
 $ cd /path/to/diesel-person-demo
 ```
 
-## Creating Post
+## Creating Person
 
 ```zsh
 cargo run --bin write_person
 ```
 
-## Showing Post(s)
+## Showing People
 
 ```zsh
 cargo run --bin show_people
 ```
 
-## Delete Post
+## Delete Person
 
 ```zsh
 cargo run --bin delete_person person-id
