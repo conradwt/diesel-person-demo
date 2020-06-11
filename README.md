@@ -6,9 +6,9 @@ Example Project Using Rust Language and The Diesel Crate.
 
 ## Software requirements
 
-- Rust 1.44.0 or higher
-
 - PostgreSQL 12.3 or higher
+
+- Rust 1.44.0 or higher
 
 ## Navigate to the application
 
