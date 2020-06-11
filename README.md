@@ -1,4 +1,4 @@
-# Diesel Demo
+# Diesel Person Demo
 
 Example Project Using Rust Language and The Diesel Crate.
 
@@ -11,7 +11,7 @@ Example Project Using Rust Language and The Diesel Crate.
 ## Navigate to the application
 
 ```
-$ cd /path/to/ios/application
+$ cd /path/to/diesel-person-demo
 ```
 
 ## Creating Post
@@ -34,13 +34,13 @@ cargo run --bin delete_person person-id
 
 ## Support
 
-Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
+Bug reports and feature requests can be filed with the rest for the Diesel Person Demo project here:
 
-- [File Bug Reports and Features](https://github.com/conradwt/diesel-demo/issues)
+- [File Bug Reports and Features](https://github.com/conradwt/diesel-person-demo/issues)
 
 ## License
 
-Diesel Demo is released under the [MIT license](https://mit-license.org).
+Diesel Person Demo is released under the [MIT license](https://mit-license.org).
 
 ## Copyright
 
